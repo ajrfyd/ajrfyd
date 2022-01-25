@@ -2,7 +2,7 @@
 
 [![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=ffffff)]()
 [![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)]()
-[![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=angular&logoColor=ffffff)]()
+[![vue](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue&logoColor=ffffff)]()
 
 
 
