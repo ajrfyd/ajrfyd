@@ -4,6 +4,6 @@
 [![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)]()
 [![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)]()
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd)](https://github.com/ajrfyd/github-readme-stats)
+[![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&show_icons=true&theme=onedark)](https://github.com/ajrfyd/github-readme-stats)
 
 
