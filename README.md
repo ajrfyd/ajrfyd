@@ -2,7 +2,7 @@
 
 [![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=ffffff)]()
 [![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)]()
-[![Styled-Component](https://img.shields.io/badge/styled-component-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)]()
+[![Styled-Component](https://img.shields.io/badge/StyledComponent-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)]()
 
 [![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&show_icons=true&theme=midnight-purple)](https://github.com/ajrfyd/github-readme-stats)
 
