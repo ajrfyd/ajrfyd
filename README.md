@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajrfyd&layout=compact)](https://github.com/ajrfyd/github-readme-stats)
 
 
-1. ~~Thank you
+~~Thank you
