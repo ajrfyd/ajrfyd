@@ -3,8 +3,8 @@
 [![image](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff)]()
 ![image](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=white)
+![image](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&locoColor=black)
 [![Styled-Components](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=FFDC0F)]()
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=FFF)]()
 
 
 [![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&show_icons=true&theme=midnight-purple)](https://github.com/ajrfyd/github-readme-stats)
