@@ -5,9 +5,9 @@
 ![image](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&locoColor=black)
 ![image](https://img.shields.io/badge/StyledComponents-DB7093?style=plastic&logo=styled-components&logoColor=FFDC0F)
+![image](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
+![image](https://img.shields.io/badge/EXPRESS-000000?style=plastic&logo=Express&logoColor=white)
 
-
-[![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&show_icons=true&theme=midnight-purple)](https://github.com/ajrfyd/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajrfyd&layout=compact)](https://github.com/ajrfyd/github-readme-stats)
 
