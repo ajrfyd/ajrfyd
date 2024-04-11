@@ -16,4 +16,4 @@
 ![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajrfyd&layout=compact)
 
-[![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd)](https://github.com/ajrfyd/github-readme-stats)&hide=stars
+[![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&hide=stars)](https://github.com/ajrfyd/github-readme-stats)
