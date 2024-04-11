@@ -26,7 +26,7 @@
 email: ajrfyd@naver.com
 blog: https://klog.hkound.pe.kr/posts
 
-<ul>
+<ul style="list-style: none;">
   <li>email: ajrfyd@naver.com</li>
   <li>blog: https://klog.hkound.pe.kr/posts</li>
 </ul>
