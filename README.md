@@ -3,7 +3,7 @@
 # Welcome!
 
 ## Skills
-[![image](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff)]()
+![image](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff)
 ![image](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&locoColor=black)
