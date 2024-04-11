@@ -1,6 +1,7 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ajrfyd&desc=dev%20hub%20&descAlign=60&descAlignY=65&animation=fadeIn&fontSize=90&fontColor=6200ee)
 
-<div align="center">
   
 ### Welcome!
 
