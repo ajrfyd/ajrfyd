@@ -23,7 +23,7 @@
 
 
 ### About Me
-- email: ajrfyd@naver.com
-- blog: https://klog.hkound.pe.kr/posts
+email: ajrfyd@naver.com
+blog: https://klog.hkound.pe.kr/posts
 
 </div>
