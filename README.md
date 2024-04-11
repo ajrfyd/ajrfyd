@@ -3,7 +3,6 @@
 <div align="center">
 ### Welcome!
   
-</div>
 
 ### Skills
 ![image](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff)
