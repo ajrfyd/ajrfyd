@@ -13,5 +13,7 @@
 ![image](https://img.shields.io/badge/Mysql-4479A1?style=plastic&logo=Mysql&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajrfyd&layout=compact)
 ![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajrfyd&layout=compact)
+
+[![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd)](https://github.com/ajrfyd/github-readme-stats)
