@@ -7,7 +7,7 @@
 
 <p></p>
 
-### Skills
+### Skills & Stats
 ![image](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff)
 ![image](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=white)
@@ -20,5 +20,10 @@
 
 ![ajrfyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&show_icons=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajrfyd&layout=compact)
+
+
+### About Me
+* email: ajrfyd@naver.com
+* blog: https://klog.hkound.pe.kr/posts
 
 </div>
