@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ajrfyd&desc=dev%20hub%20&descAlign=60&descAlignY=65&animation=fadeIn&fontSize=90&fontColor=6200ee)
 
+# Welcom!
+---
 [![image](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff)]()
 ![image](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=white)
