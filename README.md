@@ -18,3 +18,4 @@
 
 
 
+![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajrfyd&show_icons=true)
