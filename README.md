@@ -24,6 +24,6 @@
 
 ### About Me
 * email: ajrfyd@naver.com
-* blog: https://klog.hkound.pe.kr/posts
+* blog: https://klog.hkound.pe.kr
 
 </div>
